@@ -8,16 +8,16 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="293dp"
-        android:layout_height="77dp"
+        android:layout_width="275dp"
+        android:layout_height="141dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="2dp"
 
 
         android:layout_marginEnd="8dp"
-        android:layout_marginBottom="8dp"
+        android:layout_marginBottom="36dp"
         android:cropToPadding="false"
-        android:src="@drawable/allotter3_logo"
+        android:src="@drawable/allotterlogo2"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
